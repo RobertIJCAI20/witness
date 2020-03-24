@@ -1,0 +1,200 @@
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/01-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/01-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 17.154 (s)
+Memory: 107.352 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/02-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/02-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 22.057 (s)
+Memory: 115.254 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/03-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/03-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 33.422 (s)
+Memory: 136.500 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/04-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/04-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 37.710 (s)
+Memory: 146.895 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/05-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/05-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 40.333 (s)
+Memory: 151.371 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/06-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/06-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 40.567 (s)
+Memory: 151.004 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/07-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/07-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 48.608 (s)
+Memory: 168.719 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/08-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/08-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 47.874 (s)
+Memory: 168.785 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/10-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/10-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 51.346 (s)
+Memory: 172.590 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/13-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/13-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 63.004 (s)
+Memory: 185.867 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/16-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/16-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 108.002 (s)
+Memory: 239.340 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/17-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/17-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 112.327 (s)
+Memory: 243.691 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/18-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/18-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 119.908 (s)
+Memory: 243.574 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/19-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/19-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 134.167 (s)
+Memory: 259.316 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/20-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/20-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 130.874 (s)
+Memory: 259.668 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/21-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/21-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 134.251 (s)
+Memory: 263.121 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/22-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/22-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 137.830 (s)
+Memory: 263.590 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/23-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/23-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 138.149 (s)
+Memory: 267.656 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/24-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/24-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 140.213 (s)
+Memory: 268.297 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/25-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/25-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 158.284 (s)
+Memory: 276.668 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/26-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/26-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 183.947 (s)
+Memory: 304.023 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/28-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/28-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 120.488 (s)
+Memory: 250.094 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/29-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/29-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 125.577 (s)
+Memory: 255.316 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/30-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/30-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 125.579 (s)
+Memory: 254.969 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/31-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/31-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 138.717 (s)
+Memory: 268.008 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/32-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/32-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 140.752 (s)
+Memory: 268.316 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/33-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/33-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 152.692 (s)
+Memory: 271.664 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/34-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/34-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 158.184 (s)
+Memory: 272.504 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/35-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/35-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 157.246 (s)
+Memory: 276.824 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/36-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/36-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 156.076 (s)
+Memory: 276.781 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/37-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/37-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 161.041 (s)
+Memory: 287.852 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/38-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/38-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 189.957 (s)
+Memory: 314.164 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/40-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/40-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 150.769 (s)
+Memory: 272.258 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/41-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/41-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 155.216 (s)
+Memory: 276.723 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/42-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/42-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 158.487 (s)
+Memory: 276.590 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/43-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/43-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 164.212 (s)
+Memory: 292.102 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/45-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/45-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 169.808 (s)
+Memory: 296.129 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/46-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/46-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 168.341 (s)
+Memory: 296.062 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/47-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/47-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 177.426 (s)
+Memory: 300.082 (M)
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/03-StrategicCompanies/allInstances/49-strategic_companies-0-0.lp /home/wys/asp/03-StrategicCompanies/allInstances/49-strategic_companies-0-0.m
+YES
+0 clauses have head size >=2
+Time: 191.059 (s)
+Memory: 307.688 (M)
