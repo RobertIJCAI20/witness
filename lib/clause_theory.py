@@ -83,7 +83,7 @@ class ClauseTheory:
             if len(clause.get_positive().intersection(T)) != 0:
                 continue
             clause.get_negative().difference_update(T)            
-            ### Add by yisong
+            ### Add by XXXX
             if (clause.len_positive() + clause.len_negative()) > 0 :
                 new_clauses.add(clause)            
 

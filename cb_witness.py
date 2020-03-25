@@ -230,7 +230,7 @@ if __name__ == "__main__":
     parser.add_argument("-lp", help="The theory file is a logic program", action='store_true',default=False)
     parser.add_argument("-q", help="be quiet", action='store_true',default=False)
         
-    ## Added by yisong for time out
+    ## Added by XXXX for time out
     parser.add_argument("-t", action="store", type=int, dest="mct", help="CPU limit (s)", default=-1)
     ##
     sys.setrecursionlimit(3000)
@@ -338,7 +338,7 @@ if __name__ == "__main__":
                         print(dlp.get_to_atom_set()[atom] + ":")
                         dlp.find_GL_MR_rules(witness,M).print() 
             print("%d clauses have head size >=2"%head_2)
-        # modified by yisong wang
+        # modified by XXXX wang
         # 2019.11.13
         # compute the CPU time by resource.getrusage
         rusage=resource.getrusage(resource.RUSAGE_SELF)
